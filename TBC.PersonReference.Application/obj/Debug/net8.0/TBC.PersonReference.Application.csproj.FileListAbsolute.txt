@@ -1,0 +1,15 @@
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\bin\Debug\net8.0\TBC.PersonReference.Application.deps.json
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\bin\Debug\net8.0\TBC.PersonReference.Application.dll
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\bin\Debug\net8.0\TBC.PersonReference.Application.pdb
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\bin\Debug\net8.0\TBC.PersonReference.Core.dll
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\bin\Debug\net8.0\TBC.PersonReference.Core.pdb
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\TBC.PersonReference.Application.csproj.AssemblyReference.cache
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\TBC.PersonReference.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\TBC.PersonReference.Application.AssemblyInfoInputs.cache
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\TBC.PersonReference.Application.AssemblyInfo.cs
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\TBC.PersonReference.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\TBC.Pers.A099A606.Up2Date
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\TBC.PersonReference.Application.dll
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\refint\TBC.PersonReference.Application.dll
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\TBC.PersonReference.Application.pdb
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Application\obj\Debug\net8.0\ref\TBC.PersonReference.Application.dll

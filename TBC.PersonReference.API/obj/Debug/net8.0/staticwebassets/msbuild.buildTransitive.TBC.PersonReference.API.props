@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TBC.PersonReference.API.props" />
+</Project>

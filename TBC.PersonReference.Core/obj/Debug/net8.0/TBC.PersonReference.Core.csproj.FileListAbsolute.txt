@@ -1,0 +1,11 @@
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\bin\Debug\net8.0\TBC.PersonReference.Core.deps.json
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\bin\Debug\net8.0\TBC.PersonReference.Core.dll
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\bin\Debug\net8.0\TBC.PersonReference.Core.pdb
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\obj\Debug\net8.0\TBC.PersonReference.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\obj\Debug\net8.0\TBC.PersonReference.Core.AssemblyInfoInputs.cache
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\obj\Debug\net8.0\TBC.PersonReference.Core.AssemblyInfo.cs
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\obj\Debug\net8.0\TBC.PersonReference.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\obj\Debug\net8.0\TBC.PersonReference.Core.dll
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\obj\Debug\net8.0\refint\TBC.PersonReference.Core.dll
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\obj\Debug\net8.0\TBC.PersonReference.Core.pdb
+C:\Users\Dimitri_Kipiani\source\repos\TBC.PersonReference.API\TBC.PersonReference.Core\obj\Debug\net8.0\ref\TBC.PersonReference.Core.dll

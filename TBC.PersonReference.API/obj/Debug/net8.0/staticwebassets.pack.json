@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dimitri_Kipiani\\source\\repos\\TBC.PersonReference.API\\TBC.PersonReference.API\\wwwroot\\images\\af774eab-ac64-40f5-8b8c-91d20a56bc29_download.jpg",
+      "PackagePath": "staticwebassets\\images\\af774eab-ac64-40f5-8b8c-91d20a56bc29_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dimitri_Kipiani\\source\\repos\\TBC.PersonReference.API\\TBC.PersonReference.API\\wwwroot\\images\\nbd.png",
+      "PackagePath": "staticwebassets\\images\\nbd.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TBC.PersonReference.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TBC.PersonReference.API.props",
+      "PackagePath": "build\\TBC.PersonReference.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TBC.PersonReference.API.props",
+      "PackagePath": "buildMultiTargeting\\TBC.PersonReference.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TBC.PersonReference.API.props",
+      "PackagePath": "buildTransitive\\TBC.PersonReference.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

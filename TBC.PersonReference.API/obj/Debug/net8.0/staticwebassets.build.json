@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "nnuTxYJpGPhXh80rG8+oqH+9YDTOiwbppoT4USvWHWY=",
+  "Source": "TBC.PersonReference.API",
+  "BasePath": "_content/TBC.PersonReference.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TBC.PersonReference.API\\wwwroot",
+      "Source": "TBC.PersonReference.API",
+      "ContentRoot": "C:\\Users\\Dimitri_Kipiani\\source\\repos\\TBC.PersonReference.API\\TBC.PersonReference.API\\wwwroot\\",
+      "BasePath": "_content/TBC.PersonReference.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dimitri_Kipiani\\source\\repos\\TBC.PersonReference.API\\TBC.PersonReference.API\\wwwroot\\images\\af774eab-ac64-40f5-8b8c-91d20a56bc29_download.jpg",
+      "SourceId": "TBC.PersonReference.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dimitri_Kipiani\\source\\repos\\TBC.PersonReference.API\\TBC.PersonReference.API\\wwwroot\\",
+      "BasePath": "_content/TBC.PersonReference.API",
+      "RelativePath": "images/af774eab-ac64-40f5-8b8c-91d20a56bc29_download.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\af774eab-ac64-40f5-8b8c-91d20a56bc29_download.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dimitri_Kipiani\\source\\repos\\TBC.PersonReference.API\\TBC.PersonReference.API\\wwwroot\\images\\nbd.png",
+      "SourceId": "TBC.PersonReference.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dimitri_Kipiani\\source\\repos\\TBC.PersonReference.API\\TBC.PersonReference.API\\wwwroot\\",
+      "BasePath": "_content/TBC.PersonReference.API",
+      "RelativePath": "images/nbd.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nbd.png"
+    }
+  ]
+}
